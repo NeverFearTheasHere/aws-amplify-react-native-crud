@@ -12,7 +12,7 @@
 #import <React/RCTRootView.h>
 
 #define TIMEOUT_SECONDS 600
-#define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
+#define TEXT_TO_LOOK_FOR @"Welcome to Thea's React Native App!"
 
 @interface theaTests : XCTestCase
 
