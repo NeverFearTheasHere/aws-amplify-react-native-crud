@@ -7,8 +7,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "amazon-cognito-auth-js": "1.2.4",
+    "aws-amplify": "1.1.9",
+    "aws-amplify-react-native": "2.0.8",
+    "aws-appsync": "1.4.0",
+    "aws-appsync-react": "1.2.0",
+    "graphql-tag": "2.10.0",
     "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.4"
+    "react-apollo": "2.2.4",
+    "react-native": "0.57.4",
+    "uuid": "3.3.2"
   },
   "devDependencies": {
     "@types/react": "16.4.18",
